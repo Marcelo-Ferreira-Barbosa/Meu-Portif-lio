@@ -332,6 +332,10 @@ h2 {
     gap: 20px;
 }
 
+.contato-grid-unico {
+    grid-template-columns: 1fr;
+}
+
 .contact-list {
     display: grid;
     gap: 12px;
